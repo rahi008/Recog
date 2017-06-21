@@ -27,3 +27,4 @@ txt = tool.image_to_string(
     builder=pyocr.builders.TextBuilder()
 )
 # txt is a Python string
+print(txt)
