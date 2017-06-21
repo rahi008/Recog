@@ -1,10 +1,13 @@
 # Recog
 
 # Installation
-sudo pip install pyocr  # Python 2.7
-sudo pip3 install pyocr  # Python 3.X
+# Python 2.7
+sudo pip install pyocr 
 
-or the manual way:
+# Python 3.X
+sudo pip3 install pyocr 
+
+the manual way:
 
 mkdir -p ~/git ;
 cd git
